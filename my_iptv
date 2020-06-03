@@ -385,7 +385,7 @@ https://kanlivep2event-i.akamaihd.net/hls/live/747613/747613/master.m3u8
 http://makkahtv.srfms.com:1935/makkahtv/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/PeIYCXs.jpg" tvg-country="PS" tvg-url="" group-title="",Marah FM
 http://vstream3.hadara.ps:8081/marahFM_web/web/playlist.m3u8
-#EXTINF:-1 tvg-id="MBC 1 ARB" tvg-name="MBC 1 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/eKBXOKd.png" tvg-country="AE" tvg-url="" group-title="",MBC1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/eKBXOKd.png" tvg-country="AE" tvg-url="" group-title="",MBC1
 https://shls-mbc1ksa-prod.shahid.net/mbc1ksa-prod.m3u8
 #EXTINF:-1 tvg-id="MBC" tvg-name="MBC 2 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/KXuzL1u.png" tvg-country="AE" tvg-url="" group-title="Movies",MBC2 HD
 https://shls-mbc2-prod.shahid.net/mbc2-prod.m3u8
