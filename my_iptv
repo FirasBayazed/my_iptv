@@ -584,24 +584,6 @@ http://46.60.1.82:8081/live/hdmi2/playlist.m3u8
 http://46.60.1.82:8081/live/hdmi5/playlist.m3u8
 #EXTINF:-1 ,Rotana Cinema
 http://46.60.1.82:8081/live2/Rotana.Cinema/playlist.m3u8
-#EXTINF:-1,Bein Sports HD 1
-http://xtream.servers.web.tr:8888/live/rJ5w9zNXXs/tbJASozhc9/12.ts
-#EXTINF:-1,Bein Sports HD 2
-http://xtream.servers.web.tr:8888/live/rJ5w9zNXXs/tbJASozhc9/18.ts
-#EXTINF:-1,Bein Sports HD 3
-http://xtream.servers.web.tr:8888/live/rJ5w9zNXXs/tbJASozhc9/20.ts
-#EXTINF:-1,Bein Sports HD 4
-http://xtream.servers.web.tr:8888/live/rJ5w9zNXXs/tbJASozhc9/22.ts
-#EXTINF:-1,Bein Sports HD 5
-http://xtream.servers.web.tr:8888/live/rJ5w9zNXXs/tbJASozhc9/23.ts
-#EXTINF:-1,Bein Sports HD 6
-http://xtream.servers.web.tr:8888/live/rJ5w9zNXXs/tbJASozhc9/24.ts
-#EXTINF:-1,Bein Sports HD 7
-http://xtream.servers.web.tr:8888/live/rJ5w9zNXXs/tbJASozhc9/25.ts
-#EXTINF:-1,Bein Sports HD 8
-http://xtream.servers.web.tr:8888/live/rJ5w9zNXXs/tbJASozhc9/26.ts
-#EXTINF:-1,Bein Sports HD 9
-http://xtream.servers.web.tr:8888/live/rJ5w9zNXXs/tbJASozhc9/27.ts
 #EXTINF:-1,2M Maroc ARB
 http://restream.geniptv.com:8080/greenpoison8/fQ7uZO6prE/3555
 #EXTINF:-1,4G Aflam ARB
@@ -1878,3 +1860,21 @@ http://restream.geniptv.com:8080/greenpoison8/fQ7uZO6prE/82839
 http://restream.geniptv.com:8080/greenpoison8/fQ7uZO6prE/83569
 #EXTINF:-1,MBC 5 FHD ARB
 http://restream.geniptv.com:8080/greenpoison8/fQ7uZO6prE/83570
+#EXTINF:-1,Bein Sports HD 1
+http://xtream.servers.web.tr:8888/live/rJ5w9zNXXs/tbJASozhc9/12.ts
+#EXTINF:-1,Bein Sports HD 2
+http://xtream.servers.web.tr:8888/live/rJ5w9zNXXs/tbJASozhc9/18.ts
+#EXTINF:-1,Bein Sports HD 3
+http://xtream.servers.web.tr:8888/live/rJ5w9zNXXs/tbJASozhc9/20.ts
+#EXTINF:-1,Bein Sports HD 4
+http://xtream.servers.web.tr:8888/live/rJ5w9zNXXs/tbJASozhc9/22.ts
+#EXTINF:-1,Bein Sports HD 5
+http://xtream.servers.web.tr:8888/live/rJ5w9zNXXs/tbJASozhc9/23.ts
+#EXTINF:-1,Bein Sports HD 6
+http://xtream.servers.web.tr:8888/live/rJ5w9zNXXs/tbJASozhc9/24.ts
+#EXTINF:-1,Bein Sports HD 7
+http://xtream.servers.web.tr:8888/live/rJ5w9zNXXs/tbJASozhc9/25.ts
+#EXTINF:-1,Bein Sports HD 8
+http://xtream.servers.web.tr:8888/live/rJ5w9zNXXs/tbJASozhc9/26.ts
+#EXTINF:-1,Bein Sports HD 9
+http://xtream.servers.web.tr:8888/live/rJ5w9zNXXs/tbJASozhc9/27.ts
