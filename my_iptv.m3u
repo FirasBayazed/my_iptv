@@ -585,20 +585,34 @@ http://46.60.1.82:8081/live/hdmi5/playlist.m3u8
 #EXTINF:-1,Rotana Cinema
 http://46.60.1.82:8081/live2/Rotana.Cinema/playlist.m3u8
 #EXTINF:-1,Bein Sports HD 1
-http://xtream.servers.web.tr:8888/live/rJ5w9zNXXs/tbJASozhc9/12.ts
+http://linux-app.tv:6204/60400655844704/32991126026152/33350
 #EXTINF:-1,Bein Sports HD 2
-http://xtream.servers.web.tr:8888/live/rJ5w9zNXXs/tbJASozhc9/18.ts
+http://linux-app.tv:6204/60400655844704/32991126026152/33270
 #EXTINF:-1,Bein Sports HD 3
-http://xtream.servers.web.tr:8888/live/rJ5w9zNXXs/tbJASozhc9/20.ts
+http://linux-app.tv:6204/60400655844704/32991126026152/33602
 #EXTINF:-1,Bein Sports HD 4
-http://xtream.servers.web.tr:8888/live/rJ5w9zNXXs/tbJASozhc9/22.ts
+http://m-iptv.net:6204/95025267076109/65839594001441/33603
 #EXTINF:-1,Bein Sports HD 5
-http://xtream.servers.web.tr:8888/live/rJ5w9zNXXs/tbJASozhc9/23.ts
+http://linux-app.tv:6204/60400655844704/32991126026152/33353
 #EXTINF:-1,Bein Sports HD 6
-http://xtream.servers.web.tr:8888/live/rJ5w9zNXXs/tbJASozhc9/24.ts
+http://linux-app.tv:6204/60400655844704/32991126026152/33682
 #EXTINF:-1,Bein Sports HD 7
-http://xtream.servers.web.tr:8888/live/rJ5w9zNXXs/tbJASozhc9/25.ts
+http://linux-app.tv:6204/60400655844704/32991126026152/33681
 #EXTINF:-1,Bein Sports HD 8
-http://xtream.servers.web.tr:8888/live/rJ5w9zNXXs/tbJASozhc9/26.ts
+http://linux-app.tv:6204/60400655844704/32991126026152/33680
 #EXTINF:-1,Bein Sports HD 9
-http://xtream.servers.web.tr:8888/live/rJ5w9zNXXs/tbJASozhc9/27.ts
+http://m-iptv.net:6204/95025267076109/65839594001441/33697
+#EXTINF:-1,Bein Sports HD 10
+http://m-iptv.net:6204/95025267076109/65839594001441/33696
+#EXTINF:-1,Bein Sport HD11 EN
+http://m-iptv.net:6204/95025267076109/65839594001441/33695
+#EXTINF:-1,Bein Sport HD12 EN
+http://m-iptv.net:6204/95025267076109/65839594001441/33694
+#EXTINF:-1,Bein Sport HD13 EN
+http://m-iptv.net:6204/95025267076109/65839594001441/33693
+#EXTINF:-1,Bein Sport HD14 Fr
+http://m-iptv.net:6204/95025267076109/65839594001441/33692
+#EXTINF:-1,Bein Sport HD15 Fr
+http://m-iptv.net:6204/95025267076109/65839594001441/36360
+#EXTINF:-1,Bein Sport HD16 Fr
+http://m-iptv.net:6204/95025267076109/65839594001441/33690
