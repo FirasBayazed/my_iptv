@@ -142,8 +142,6 @@ http://streamer11.elementssys.com:8080/alrashid/alrashid_850kbps/index.m3u8
 https://svs.itworkscdn.net/alrayyanlive/alrayyan.smil/playlist.m3u8
 #EXTINF:-1,Al Rayyan Al Qadeem
 https://svs.itworkscdn.net/alrayyanqadeemlive/alrayyanqadeem.smil/playlist.m3u8
-#EXTINF:-1,Al Resalah HD
-https://rotana.hibridmedia.com/rotana/risala_dabr/playlist.m3u8
 #EXTINF:-1,Al Sharq
 https://mn-nl.mncdn.com/elsharq_live/live/playlist.m3u8
 #EXTINF:-1,Al Sharqiya
@@ -362,8 +360,6 @@ https://svs.itworkscdn.net/alminbartvlive/alminbar/playlist.m3u8
 https://svs.itworkscdn.net/lanatvlive/lana/chunks.m3u8?DVR&v
 #EXTINF:-1,LBC
 http://178.132.3.162:88/LBC_SAT/video.m3u8?token=test
-#EXTINF:-1,LBC
-https://rotana.hibridmedia.com/rotana/lbc_dabr/playlist.m3u8
 #EXTINF:-1,LBC International
 http://51.15.3.161:8080/LDC/index.m3u8?token=test
 #EXTINF:-1,Libya 218
@@ -534,11 +530,6 @@ http://82.137.248.16:1935/Snews/stream31122019/playlist.m3u8
 https://tahalv.cdn.octivid.com/taha/smil:taha.smil/playlist.m3u8
 #EXTINF:-1,Tamazight
 http://cdn-hls.globecast.tv/live/ramdisk/tamazight_tv8_snrt/hls_snrt/index.m3u8
-#EXTINF:-1,Tamazight
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tamazight_tv8_snrt/hls_snrt/index.m3u8
-#EXTINF:-1,Tele Liban
-#EXTVLCOPT:http-referrer=https://www.teleliban.com.lb/live
-https://cdn.catiacast.video/abr/ed8f807e2548db4507d2a6f4ba0c4a06/playlist.m3u8
 #EXTINF:-1,The Kingdom Sat
 https://bcovlive-a.akamaihd.net/87f7c114719b4646b7c4263c26515cf3/eu-central-1/6008340466001/profile_0/chunklist.m3u8
 #EXTINF:-1,Toheed TV
@@ -567,23 +558,208 @@ https://master.starmena-cloud.com/hls/yemenshabab.m3u8
 https://bozztv.com/36bay2/gin/giniko_yementv_900kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Zagros
 https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
-#EXTINF:-1,هلا تي في
+#EXTINF:-1,Hala tv
 https://gstream4.panet.co.il/edge/halaTV/chunks.m3u8
-http://red.ipfox.org:8080/live/Etronics_5YXq9S/lFFItvo3/16851.m3u8
 #EXTINF:-1,Sama TV
 http://46.60.1.82:8081/live/SamaTV/playlist.m3u8
-#EXTINF:-1,Rotana Classic
-http://46.60.1.82:8081/live2/Rotana.Classic/playlist.m3u8
-#EXTINF:-1,Rotana Clip
-http://46.60.1.82:8081/live2/Rotana.Clip/playlist.m3u8
 #EXTINF:-1,LBC HD
 http://46.60.1.82:8081/live5/LBC.SAT/playlist.m3u8
 #EXTINF:-1,Al Jazeera
 http://46.60.1.82:8081/live/hdmi2/playlist.m3u8
 #EXTINF:-1,Makan TV
 http://46.60.1.82:8081/live/hdmi5/playlist.m3u8
-#EXTINF:-1,Rotana Cinema
-http://46.60.1.82:8081/live2/Rotana.Cinema/playlist.m3u8
+#EXTINF:-1,ROTANA AFLAM
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/38176.m3u8
+#EXTINF:-1,ROTANA CINEMA
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/38177.m3u8
+#EXTINF:-1,ROTANA CLASSIC
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/38178.m3u8
+#EXTINF:-1,ROTANA DRAMA
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/39020.m3u8
+#EXTINF:-1,ROTANA KHALIJIA
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/38179.m3u8
+#EXTINF:-1,ROTANA MUSIC
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/38180.m3u8
+#EXTINF:-1,WANASAH TV
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/38181.m3u8
+#EXTINF:-1,MAZZIKA
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/38182.m3u8
+#EXTINF:-1,LANA
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/38311.m3u8
+#EXTINF:-1,OSN ART Aflam 1
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/18967.m3u8
+#EXTINF:-1,OSN ART Aflam 2
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/18966.m3u8
+#EXTINF:-1,OSN ART Cinema
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/18965.m3u8
+#EXTINF:-1,OSN ART Hekayat
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/18964.m3u8
+#EXTINF:-1,OSN ART Hekayat 2
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/18963.m3u8
+#EXTINF:-1,OSN Yahala HD
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/18895.m3u8
+#EXTINF:-1,OSN Yahala Oula HD
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/18896.m3u8
+#EXTINF:-1,OSN Yahala Cinema HD
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/18898.m3u8
+#EXTINF:-1,OSN Cinema 1
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/18959.m3u8
+#EXTINF:-1,OSN Cinema 2
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/18958.m3u8
+#EXTINF:-1,OSN Al Youm HD
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/18969.m3u8
+#EXTINF:-1,OSN FANN
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/18946.m3u8
+#EXTINF:-1,OSN Musalsalat 2 HD
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/18926.m3u8
+#EXTINF:-1,OSN Musalsalat HD
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/18925.m3u8
+#EXTINF:-1,OSN BBC First HD
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/18962.m3u8
+#EXTINF:-1,OSN Cnn News
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/18957.m3u8
+#EXTINF:-1,OSN Sky News HD
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/18912.m3u8
+#EXTINF:-1,OSN Animal Planet HD
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/18968.m3u8
+#EXTINF:-1,OSN National Geo HD
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/18923.m3u8
+#EXTINF:-1,OSN National Geo People HD
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/18922.m3u8
+#EXTINF:-1,OSN National Geo Wild HD
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/18921.m3u8
+#EXTINF:-1,OSN Discovery HD
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/18953.m3u8
+#EXTINF:-1,OSN Discovery ID HD
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/18952.m3u8
+#EXTINF:-1,OSN Discovery Family HD
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/18954.m3u8
+#EXTINF:-1,OSN Discovery Science HD
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/18951.m3u8
+#EXTINF:-1,OSN Cartoon Network
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/18960.m3u8
+#EXTINF:-1,OSN Disney
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/18950.m3u8
+#EXTINF:-1,OSN Disney XD
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/18948.m3u8
+#EXTINF:-1,OSN Disney Junior
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/18949.m3u8
+#EXTINF:-1,OSN Kids Zone
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/18940.m3u8
+#EXTINF:-1,OSN Movies Kids HD
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/18927.m3u8
+#EXTINF:-1,OSN Movies Disney Ar
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/18933.m3u8
+#EXTINF:-1,OSN Movies Disney HD
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/18932.m3u8
+#EXTINF:-1,OSN  Nickelodeon Junior Ar
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/18970.m3u8
+#EXTINF:-1,OSN Nickelodeon
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/18919.m3u8
+#EXTINF:-1,OSN Living HD
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/18939.m3u8
+#EXTINF:-1,OSN Movies HD
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/18928.m3u8
+#EXTINF:-1,OSN On Demand
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/18918.m3u8
+#EXTINF:-1,OSN Movies Action HD
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/18936.m3u8
+#EXTINF:-1,OSN Movies First HD
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/18929.m3u8
+#EXTINF:-1,OSN Movies First  2 HD
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/18930.m3u8
+#EXTINF:-1,OSN Movies Binge HD
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/18935.m3u8
+#EXTINF:-1,OSN Movies Comedy HD
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/18934.m3u8
+#EXTINF:-1,OSN Movies Enigma
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/18931.m3u8
+#EXTINF:-1,OSN Comedy Central HD
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/18956.m3u8
+#EXTINF:-1,OSN Star Movies HD
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/18905.m3u8
+#EXTINF:-1,OSN Star World HD
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/18904.m3u8
+#EXTINF:-1,OSN Paramount Channel
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/18917.m3u8
+#EXTINF:-1,OSN Series Comedy HD
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/18915.m3u8
+#EXTINF:-1,OSN Series First HD
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/18914.m3u8
+#EXTINF:-1,OSNTLCHD
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/18900.m3u8
+#EXTINF:-1,OSN History 2 HD
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/18943.m3u8
+#EXTINF:-1,OSN Entertainment! HD
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/18947.m3u8
+#EXTINF:-1,OSN History HD
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/18942.m3u8
+#EXTINF:-1,OSN Music Now
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/18924.m3u8
+#EXTINF:-1,BEIN MOVIES 1
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/1741.m3u8
+#EXTINF:-1,BEIN MOVIES 2
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/1740.m3u8
+#EXTINF:-1,BEIN MOVIES 3
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/1739.m3u8
+#EXTINF:-1,BEIN MOVIES 4
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/1738.m3u8
+#EXTINF:-1,Bein Fox HD
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/4236.m3u8
+#EXTINF:-1,Bein Fox Crime
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/39024.m3u8
+#EXTINF:-1,bein Fox Life HD
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/39023.m3u8
+#EXTINF:-1,bein Fox Movies HD
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/39021.m3u8
+#EXTINF:-1,bein Fox Movies Familly HD
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/39022.m3u8
+#EXTINF:-1,BEIN SERIES 1
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/1737.m3u8
+#EXTINF:-1,Bein Series HD2
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/4239.m3u8
+#EXTINF:-1,Bein drama hd
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/4230.m3u8
+#EXTINF:-1,BEIN JUNIOR
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/1742.m3u8
+#EXTINF:-1,BARAEM
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/1747.m3u8
+#EXTINF:-1,Jeem TV HD
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/4231.m3u8
+#EXTINF:-1,BEIN BOOMERANGE
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/2758.m3u8
+#EXTINF:-1,Bein Cartoon Network HD
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/4232.m3u8
+#EXTINF:-1,BEIN GROUMMET
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/1743.m3u8
+#EXTINF:-1,FATAFEAT
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/36972.m3u8
+#EXTINF:-1,NAT GEO BEIN HD 
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/2757.m3u8
+#EXTINF:-1,Bein Nat People
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/4233.m3u8
+#EXTINF:-1,Bein Nat Wild
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/4234.m3u8
+#EXTINF:-1,Bein Discovery Life HD
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/4237.m3u8
+#EXTINF:-1,Bein Discovery Kids HD
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/4238.m3u8
+#EXTINF:-1,BEIN DTX
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/1744.m3u8
+#EXTINF:-1,BEIN DMAX
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/1745.m3u8
+#EXTINF:-1,BEIN AMC
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/1746.m3u8
+#EXTINF:-1,Bein HGTV HD
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/4235.m3u8
+#EXTINF:-1,BBC Eatrh HD
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/37074.m3u8
+#EXTINF:-1,Outdoor
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/37076.m3u8
+#EXTINF:-1,Bein Sundance
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/37077.m3u8
+#EXTINF:-1,OSN SyFy HD
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/18902.m3u8
 #EXTINF:-1,Bein Sports HD 1
 http://linux-app.tv:6204/60400655844704/32991126026152/33350
 #EXTINF:-1,Bein Sports HD 2
@@ -740,3 +916,73 @@ http://69.64.33.127:25461/LifeUsu04/C0251/33965
 http://69.64.33.127:25461/LifeUsu04/C0251/33967
 #EXTINF:-1,DE | Bein Sports 5
 http://69.64.33.127:25461/LifeUsu04/C0251/208212
+#EXTINF:-1,BEIN SPORTS  News HD
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/1884.m3u8
+#EXTINF:-1,BEIN SPORTS HD
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/1885.m3u8
+#EXTINF:-1,beIN SPORTS HD1
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/682.m3u8
+#EXTINF:-1,BEIN SPORTS 1
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/681.m3u8
+#EXTINF:-1,beIN SPORTS HD2
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/1711.m3u8
+#EXTINF:-1,BEIN SPORTS 2
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/680.m3u8
+#EXTINF:-1,beIN SPORTS HD3
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/679.m3u8
+#EXTINF:-1,BEIN SPORTS 3
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/678.m3u8
+#EXTINF:-1,beIN SPORTS HD4
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/677.m3u8
+#EXTINF:-1,BEIN SPORTS 4
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/676.m3u8
+#EXTINF:-1,beIN SPORTS HD5
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/675.m3u8
+#EXTINF:-1,BEIN SPORTS 5
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/674.m3u8
+#EXTINF:-1,beIN SPORTS HD6
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/673.m3u8
+#EXTINF:-1,BEIN SPORTS 6
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/672.m3u8
+#EXTINF:-1,beIN SPORTS HD7
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/671.m3u8
+#EXTINF:-1,BEIN SPORTS 7
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/670.m3u8
+#EXTINF:-1,beIN SPORTS HD8
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/669.m3u8
+#EXTINF:-1,BEIN SPORTS 8
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/668.m3u8
+#EXTINF:-1,BEIN SPORTS 9HD
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/667.m3u8
+#EXTINF:-1,BEIN SPORTS 9
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/666.m3u8
+#EXTINF:-1,BEIN SPORTS 10HD
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/665.m3u8
+#EXTINF:-1,BEIN SPORTS 10
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/664.m3u8
+#EXTINF:-1,BEIN SPORTS 11HD
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/663.m3u8
+#EXTINF:-1,BEIN SPORTS 12HD
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/662.m3u8
+#EXTINF:-1,BEIN SPORTS 13HD
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/661.m3u8
+#EXTINF:-1,BEIN SPORT 1 FHD
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/5658.m3u8
+#EXTINF:-1,BEIN SPORT 2 FHD
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/37619.m3u8
+#EXTINF:-1,BEIN SPORT 3 FHD
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/5656.m3u8
+#EXTINF:-1,BEIN SPORT 4 FHD
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/5655.m3u8
+#EXTINF:-1,BEIN SPORT 5 FHD
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/5654.m3u8
+#EXTINF:-1,BEIN SPORT 6 FHD
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/5653.m3u8
+#EXTINF:-1,BEIN SPORT 7 FHD
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/5652.m3u8
+#EXTINF:-1,BEIN SPORT 8 FHD
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/5651.m3u8
+#EXTINF:-1,BEIN SPORT 9 FHD
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/5650.m3u8
+#EXTINF:-1,BEIN SPORT 10 FHD
+http://h2.dimapro.cz:8080/live/N2vdf6yju0/LflBfKJ5AN/5649.m3u8
