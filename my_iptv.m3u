@@ -1,5 +1,9 @@
 #EXTM3U
 #EXTENC: UTF-8
+#EXTINF:-1,LANA PLUS
+http://37.235.38.131:4000/play/a02c/index.m3u8
+#EXTINF:-1,LANA TV
+http://37.235.38.131:4000/play/a00b/index.m3u8
 #EXTINF:-1,22 TV
 http://82.212.74.99:8000/live/hls/8117.m3u8
 #EXTINF:-1,2M Monde
