@@ -191,8 +191,6 @@ https://stream02.fasttelco.net/4/pub/asset/28/streams.m3u8
 https://ammantv.c.s73cdn.net/23153d43-375a-472a-bc5f-9827582b5d22/elemental/live/master.m3u8
 #EXTINF:-1,An-Najah Nbc
 http://htvpalsat.mada.ps:8888/najah/index.m3u8?v=1559311573
-#EXTINF:-1,ANN
-http://ns8.indexforce.com:1935/ann/ann/playlist.m3u8
 #EXTINF:-1,Arryadia
 http://cdn-hls.globecast.tv/live/ramdisk/arriadia/hls_snrt/index.m3u8
 #EXTINF:-1,Arryadia
