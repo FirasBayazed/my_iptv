@@ -251,8 +251,6 @@ http://142.112.39.133:8080/catv.mp4
 http://178.132.3.162:88/canal_algerie/video.m3u8?token=test
 #EXTINF:-1,CBC Sofra
 http://178.132.3.162:88/CBC_Sofra/video.m3u8?token=test
-#EXTINF:-1,CGTN العربية
-https://live.cgtn.com/cctv-a.m3u8
 #EXTINF:-1,Ch4Teen
 https://dcunilive93-lh.akamaihd.net/i/dclive_1@835787/master.m3u8
 #EXTINF:-1,Chada TV
