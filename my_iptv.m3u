@@ -653,39 +653,39 @@ http://46.60.1.82:8081/live/Panorama.Drama2/playlist.m3u8
 http://46.60.1.82:8081/live/Panorama.Food/playlist.m3u8
 #EXTINF:-1 ,Sky News Arabia
 http://46.60.1.82:8081/live5/Sky.News.Arabia/playlist.m3u8
-#EXTINF:0 tvg-country="undefined"tvg-logo=""group-title="Undefined",alliptvlinks.com MAZAZIKH (ARB)
+#EXTINF:0 ,MAZAZIKH (ARB)
 http://66.northerniptv.ca:8000/live/george/george123/72649.m3u8
-#EXTINF:0 tvg-country="undefined"tvg-logo=""group-title="Undefined",alliptvlinks.com MAZAZIKH (ARB)
+#EXTINF:0 ,MAZAZIKH1 (ARB)
 http://66.northerniptv.ca:8000/tommy2/123456/72649
-#EXTINF:0 tvg-country="undefined"tvg-logo=""group-title="Undefined",alliptvlinks.com MBC IRAQ (ARB)
+#EXTINF:0 ,MBC IRAQ (ARB)
 http://66.northerniptv.ca:8000/live/george/george123/69065.m3u8
-#EXTINF:0 tvg-country="undefined"tvg-logo=""group-title="Undefined",alliptvlinks.com MBC IRAQ (ARB)
+#EXTINF:0 , MBC IRAQ (ARB)
 http://66.northerniptv.ca:8000/tommy2/123456/69065
-#EXTINF:0 tvg-country="undefined"tvg-logo=""group-title="Undefined",alliptvlinks.com MBC1 (ARB)
+#EXTINF:0 , MBC1 (ARB)
 http://66.northerniptv.ca:8000/tommy2/123456/5514
-#EXTINF:0 tvg-country="undefined"tvg-logo=""group-title="Undefined",alliptvlinks.com MBC1 (ARB)
+#EXTINF:0 , MBC1 (ARB)
 http://66.northerniptv.ca:8000/live/george/george123/5514.m3u8
-#EXTINF:0 tvg-country="undefined"tvg-logo=""group-title="Undefined",alliptvlinks.com MBC2 (ARB)
+#EXTINF:0 , MBC2 (ARB)
 http://66.northerniptv.ca:8000/live/george/george123/5837.m3u8
-#EXTINF:0 tvg-country="undefined"tvg-logo=""group-title="Undefined",alliptvlinks.com MBC2 (ARB)
+#EXTINF:0 , MBC2 (ARB)
 http://66.northerniptv.ca:8000/tommy2/123456/5837
-#EXTINF:0 tvg-country="undefined"tvg-logo=""group-title="Undefined",alliptvlinks.com MBC3 (ARB)
+#EXTINF:0 , MBC3 (ARB)
 http://66.northerniptv.ca:8000/tommy2/123456/5512
-#EXTINF:0 tvg-country="undefined"tvg-logo=""group-title="Undefined",alliptvlinks.com MBC3 (ARB)
+#EXTINF:0 ,MBC3 (ARB)
 http://66.northerniptv.ca:8000/live/george/george123/5512.m3u8
-#EXTINF:0 tvg-country="undefined"tvg-logo=""group-title="Undefined",alliptvlinks.com MBCAction (ARB)
+#EXTINF:0 ,MBC Action (ARB)
 http://66.northerniptv.ca:8000/live/george/george123/5510.m3u8
-#EXTINF:0 tvg-country="undefined"tvg-logo=""group-title="Undefined",alliptvlinks.com MBCAction (ARB)
+#EXTINF:0 ,MBC Action (ARB)
 http://66.northerniptv.ca:8000/tommy2/123456/5510
-#EXTINF:0 tvg-country="undefined"tvg-logo=""group-title="Undefined",alliptvlinks.com MBCBollywood (ARB)
+#EXTINF:0 , MBC Bollywood (ARB)
 http://66.northerniptv.ca:8000/tommy2/123456/5507
-#EXTINF:0 tvg-country="undefined"tvg-logo=""group-title="Undefined",alliptvlinks.com MBCDrama (ARB)
+#EXTINF:0 , MBC Drama (ARB)
 http://66.northerniptv.ca:8000/tommy2/123456/5509
-#EXTINF:0 tvg-country="undefined"tvg-logo=""group-title="Undefined",alliptvlinks.com MBCDrama (ARB)
+#EXTINF:0 ,MBC Drama (ARB)
 http://66.northerniptv.ca:8000/live/george/george123/5509.m3u8
-#EXTINF:0 tvg-country="undefined"tvg-logo=""group-title="Undefined",alliptvlinks.com MBCMAX (ARB)
+#EXTINF:0 , MBC MAX (ARB)
 http://66.northerniptv.ca:8000/tommy2/123456/5508
-#EXTINF:0 tvg-country="undefined"tvg-logo=""group-title="Undefined",alliptvlinks.com MBCMAX (ARB)
+#EXTINF:0 , MBC MAX (ARB)
 http://66.northerniptv.ca:8000/live/george/george123/5508.m3u8
-#EXTINF:0 tvg-country="undefined"tvg-logo=""group-title="Undefined",alliptvlinks.com MBCMaser (ARB)
+#EXTINF:0 ,MBC Maser (ARB)
 http://66.northerniptv.ca:8000/tommy2/123456/5505
