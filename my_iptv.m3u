@@ -562,25 +562,800 @@ https://bozztv.com/36bay2/gin/giniko_yementv_900kb_36bay2/tracks-v1a1/mono.m3u8
 https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
 #EXTINF:-1,Hala tv
 https://gstream4.panet.co.il/edge/halaTV/chunks.m3u8
-#EXTINF:0 ,MTV Lebanon
-http://watchlb.ddns.net:9075/channel1/tracks-v1a1/index.m3u8
-#EXTINF:0,MTV Lebanon
-https://cllive.itworkscdn.net/mtvlebanonlive/token=nva=1601669737~dirs=1~hash=02162dbe39195a3584272/mtvleb.smil/playlist.m3u8
-#EXTINF:0,MTV Lebanon
-http://178.132.3.162:88/MTV_Lebanon/video.m3u8?token=test
-#EXTINF:0,Al Jadeed
-https://p-mysat-live.ercdn.net/aljadeed/aljadeed.m3u8
-#EXTINF:0,RLL
-https://edge.mixlr.com/channel/qtqeb
-#EXTINF:0,LBCI
-http://watchlb.ddns.net:9075/channel6/tracks-v2a1/mono.m3u8
-#EXTINF:0,OTV
-https://svs.itworkscdn.net/otvlebanonlive/otv.smil/playlist.m3u8
-#EXTINF:0,Al Manar
-https://manar.live/x.smil/tracks-v1a1/mono.m3u8
-#EXTINF:0,MBC 1
-https://shls-mbc1ksa-prod.shahid.net/mbc1ksa-prod_3.m3u8
-#EXTINF:0,Al Mayadeen
-https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
-#EXTINF:0,Sawt Lebanon
-http://audiostreaming.itworkscdn.com:9054/stream
+
+#EXTINF:-1,AR: Bein Sport 1 HD
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/257
+#EXTINF:-1,AR: Bein Sport  2 HD
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/258
+#EXTINF:-1,AR: Bein Sport 4 HD
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/260
+#EXTINF:-1,AR: Bein Sport News
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/1541
+#EXTINF:-1,AR: Bein Sport 11 HD
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/1543
+#EXTINF:-1,AR: Bein Sport 3 HD
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/1758
+#EXTINF:-1,AR: Bein Sport 5 HD
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/1760
+#EXTINF:-1,AR: Bein Sport 6 HD
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/1761
+#EXTINF:-1,AR: Bein Sport 7 HD
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/1762
+#EXTINF:-1,AR: Bein Sport 9 HD
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/1764
+#EXTINF:-1,AR: Bein Sport  10 HD
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/1765
+#EXTINF:-1,AR: Bein Sport 8 HD
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/1780
+#EXTINF:-1,Box office ar 1
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/2410
+#EXTINF:-1,Box office ar 2
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/2411
+#EXTINF:-1,Box office ar 3
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/2412
+#EXTINF:-1,Box office ar 4
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/2413
+#EXTINF:-1,Box office ar 5
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/2414
+#EXTINF:-1,Box office ar 6
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/2415
+#EXTINF:-1,Box office ar 7
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/2416
+#EXTINF:-1,Box office ar 8
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/2417
+#EXTINF:-1,AR: Tunisia NAT 1
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11799
+#EXTINF:-1,AR: Tunisia NAT 2
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11800
+#EXTINF:-1,AR: Elhiwar ettounsi TV
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11801
+#EXTINF:-1,AR: Attessia TV
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11802
+#EXTINF:-1,AR: Nessma
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11803
+#EXTINF:-1,AR: Hannibal
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11804
+#EXTINF:-1,AR: M Tunisia
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11805
+#EXTINF:-1,AR: Telvza TV
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11806
+#EXTINF:-1,AR: Sahel tv
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11807
+#EXTINF:-1,AR: Carthage TV
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11808
+#EXTINF:-1,AR: Tunisna
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11809
+#EXTINF:-1,AR: Al Insen TV
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11810
+#EXTINF:-1,AR: Al Janoubia Tv
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11811
+#EXTINF:-1,AR: Al Mustakillah
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11812
+#EXTINF:-1,AR: Zitouna TV
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11813
+#EXTINF:-1,AR: Tunisie immobilier TV
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11814
+#EXTINF:-1,AR: Tunisia Nat 1 TNT
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11815
+#EXTINF:-1,AR: Tunisia Nat 2 TNT
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11816
+#EXTINF:-1,AR: Elhiwar Ettounsi TNT
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11817
+#EXTINF:-1,AR: Nessma TNT
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11818
+#EXTINF:-1,AR: Hannibal TNT
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11819
+#EXTINF:-1,AR: Attessia TNT
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11820
+#EXTINF:-1,AR: Telvza TNT
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11821
+#EXTINF:-1,AR: Al Janoubia TNT
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11822
+#EXTINF:-1,AR: M Tunisia TNT
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11823
+#EXTINF:-1,AR: Tunisna TNT
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11824
+#EXTINF:-1,AR: Al Insen TNT
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11825
+#EXTINF:-1,AR: Zitouna TNT
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11826
+#EXTINF:-1,AR: Algeria tv
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11827
+#EXTINF:-1,AR: Algerie 3
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11828
+#EXTINF:-1,AR: Algerie 4
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11829
+#EXTINF:-1,AR: Algerie 5
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11830
+#EXTINF:-1,AR: Echorouk TV
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11831
+#EXTINF:-1,AR: Echorouk News
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11832
+#EXTINF:-1,AR: Bahia TV
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11833
+#EXTINF:-1,AR: Dzair News
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11834
+#EXTINF:-1,AR: El Bilad TV
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11835
+#EXTINF:-1,AR: Al Heddaf tv
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11836
+#EXTINF:-1,AR: El Djazairia TV
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11837
+#EXTINF:-1,AR: Ennahar TV DZ
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11838
+#EXTINF:-1,AR: ENTV Algerie
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11839
+#EXTINF:-1,AR: Berbere TV
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11840
+#EXTINF:-1,AR: El Fadjr TV DZ
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11841
+#EXTINF:-1,AR: Tele Maroc
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11842
+#EXTINF:-1,AR: 2M Maroc
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11843
+#EXTINF:-1,AR: Al Aoula Inter
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11844
+#EXTINF:-1,AR: Al Maghribia
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11845
+#EXTINF:-1,AR: Al Magharibia News
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11846
+#EXTINF:-1,AR: Laayoune TV
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11847
+#EXTINF:-1,AR: Maroc Tamazight
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11848
+#EXTINF:-1,AR: Medi1 TV HD
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11849
+#EXTINF:-1,AR: Arrabiaa
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11850
+#EXTINF:-1,AR: Assadissa
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11851
+#EXTINF:-1,AR: Aflam7
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11852
+#EXTINF:-1,AR: Canal Atlas
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11853
+#EXTINF:-1,AR: CHADA
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11854
+#EXTINF:-1,AR: Beur TV
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11855
+#EXTINF:-1,AR: Arryadia Live HD
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11856
+#EXTINF:-1,AR: Al Jazeera
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11857
+#EXTINF:-1,AR: Al Arabiya
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11858
+#EXTINF:-1,AR: Al Arabiya Al Hadath
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11859
+#EXTINF:-1,AR: Sky News Arabia HD
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11860
+#EXTINF:-1,AR: France 24 Arabic
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11861
+#EXTINF:-1,AR: Al Sharq tv
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11862
+#EXTINF:-1,AR: Al Alam
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11863
+#EXTINF:-1,AR: RT Arab
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11864
+#EXTINF:-1,AR: DW Arabic TV
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11865
+#EXTINF:-1,AR: BBC Arabic
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11866
+#EXTINF:-1,AR: Euro news
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11867
+#EXTINF:-1,AR: Alqanat 9
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11868
+#EXTINF:-1,AR: Alhurra
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11869
+#EXTINF:-1,AR: Cnbc Arabia
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11870
+#EXTINF:-1,AR: TRT Arabic
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11871
+#EXTINF:-1,AR: Al Ekhbariya
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11872
+#EXTINF:-1,AR: Al Ekhbariya Al Soriya
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11873
+#EXTINF:-1,AR: Al Sharqiya News HD
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11874
+#EXTINF:-1,AR: Al Jazeera English
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11875
+#EXTINF:-1,AR: Al Jazeera Mubasher
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11876
+#EXTINF:-1,AR: Libya TV
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11877
+#EXTINF:-1,AR: Libya 24
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11878
+#EXTINF:-1,AR: Aljamahiriya TV
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11879
+#EXTINF:-1,AR: Libya Alhadath TV
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11880
+#EXTINF:-1,AR: Libya el watan
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11881
+#EXTINF:-1,AR: Libya Al Ahrar TV
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11882
+#EXTINF:-1,AR: Libya's Channel
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11883
+#EXTINF:-1,AR: Nat Geo Abu Dhabi
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11884
+#EXTINF:-1,AR: Al Jazeera Documentary
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11885
+#EXTINF:-1,AR: Fatafeat
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11886
+#EXTINF:-1,AR: Samira TV.
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11887
+#EXTINF:-1,AR: CBC Sofra
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11888
+#EXTINF:-1,AR: CBC BENNA
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11889
+#EXTINF:-1,AR: beIN Gourmet HD
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11890
+#EXTINF:-1,AR: Panorama Food
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11891
+#EXTINF:-1,AR: MBC 5
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11892
+#EXTINF:-1,AR: MBC 4
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11893
+#EXTINF:-1,AR: MBC Bollywood
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11894
+#EXTINF:-1,AR: MBC Drama
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11895
+#EXTINF:-1,AR: MBC Masr
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11896
+#EXTINF:-1,AR: MBC Masr2
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11897
+#EXTINF:-1,AR: MBC 2
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11898
+#EXTINF:-1,AR: MBC MAX
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11899
+#EXTINF:-1,AR: MBC Action
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11900
+#EXTINF:-1,AR: beIN Drama
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11901
+#EXTINF:-1,AR: beIN Movies Premiere HD
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11902
+#EXTINF:-1,AR: beIN Movies Action HD
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11903
+#EXTINF:-1,AR: beIN Movies Drama HD
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11904
+#EXTINF:-1,AR: beIN Movies Family HD
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11905
+#EXTINF:-1,AR: BeIN Series HD 1
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11906
+#EXTINF:-1,AR: BeIN Series HD 2
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11907
+#EXTINF:-1,AR: beIN AMC
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11908
+#EXTINF:-1,AR: beIN Fox Movies
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11909
+#EXTINF:-1,AR: B4U Aflam
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11910
+#EXTINF:-1,AR: B4U Plus.
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11911
+#EXTINF:-1,AR: Zee Aflam
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11912
+#EXTINF:-1,AR: Zee Alwan
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11913
+#EXTINF:-1,AR: Belody Aflam
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11914
+#EXTINF:-1,AR: Abu Dhabi TV HD
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11915
+#EXTINF:-1,AR: Al Emarat TV HD
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11916
+#EXTINF:-1,AR: AD Drama
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11917
+#EXTINF:-1,AR: Dubai Tv
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11918
+#EXTINF:-1,AR: Dubai One
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11919
+#EXTINF:-1,AR: Dubai Zaman
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11920
+#EXTINF:-1,AR: Sama Dubai
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11921
+#EXTINF:-1,AR: Noor Dubai
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11922
+#EXTINF:-1,AR: Rotana Aflam
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11923
+#EXTINF:-1,AR: Rotana Cinema EGY
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11924
+#EXTINF:-1,AR: Rotana Cinema KSA
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11925
+#EXTINF:-1,AR: Rotana Classic
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11926
+#EXTINF:-1,AR: Rotana Masriya
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11927
+#EXTINF:-1,AR: ART Aflam 1
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11928
+#EXTINF:-1,AR: ART Aflam 2
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11929
+#EXTINF:-1,AR: ART Cinema
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11930
+#EXTINF:-1,AR: Hekayat 1
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11931
+#EXTINF:-1,AR: Hekayat 2
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11932
+#EXTINF:-1,AR: Cima
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11933
+#EXTINF:-1,AR: CIMA TUBE
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11934
+#EXTINF:-1,AR: CIMA ALI BABA
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11935
+#EXTINF:-1,AR: CINEMA 1
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11936
+#EXTINF:-1,AR: CINEMA 2
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11937
+#EXTINF:-1,AR: CINEMA PRO
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11938
+#EXTINF:-1,AR: CINEMA TUBE
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11939
+#EXTINF:-1,AR: LCD Aflam
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11940
+#EXTINF:-1,AR: Apple Film
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11941
+#EXTINF:-1,AR: Apple Cinema
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11942
+#EXTINF:-1,AR: Apple Moslsalat
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11943
+#EXTINF:-1,AR: Apple Hekayat
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11944
+#EXTINF:-1,AR: Apple Today
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11945
+#EXTINF:-1,AR: I CINEMA
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11946
+#EXTINF:-1,AR: STAR CINEMA1
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11947
+#EXTINF:-1,AR: STAR CINEMA2
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11948
+#EXTINF:-1,AR: TOKTOK CIMA
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11949
+#EXTINF:-1,AR: Panorama Film
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11950
+#EXTINF:-1,AR: Panorama Cinema
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11951
+#EXTINF:-1,AR: Panorama Drama2
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11952
+#EXTINF:-1,AR: Panorama Drama
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11953
+#EXTINF:-1,AR: Al Sa3a Comedy
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11954
+#EXTINF:-1,AR: CBC
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11955
+#EXTINF:-1,AR: CBC eXtra
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11956
+#EXTINF:-1,AR: CBC Drama
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11957
+#EXTINF:-1,AR: ON Live HD
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11958
+#EXTINF:-1,AR: ON Drama
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11959
+#EXTINF:-1,AR: ON E HD
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11960
+#EXTINF:-1,AR: DMC HD
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11961
+#EXTINF:-1,AR: DMC Drama
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11962
+#EXTINF:-1,AR: M Cinema TV
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11963
+#EXTINF:-1,AR: M Classic
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11964
+#EXTINF:-1,AR: Imagine Movies
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11965
+#EXTINF:-1,AR: Toktok Aflam
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11966
+#EXTINF:-1,AR: Cairo Drama
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11967
+#EXTINF:-1,AR: Cairo cinema
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11968
+#EXTINF:-1,AR: Al Shasha Cinema
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11969
+#EXTINF:-1,AR: Al Masrawia Aflam
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11970
+#EXTINF:-1,AR: Mosalsalat Tube
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11971
+#EXTINF:-1,AR: Family Drama
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11972
+#EXTINF:-1,AR: Maspero Zaman
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11973
+#EXTINF:-1,AR: Dream 1
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11974
+#EXTINF:-1,AR: Nile Cinema
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11975
+#EXTINF:-1,AR: Nile Comedy
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11976
+#EXTINF:-1,AR: Nile Drama
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11977
+#EXTINF:-1,AR: Nile Culture
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11978
+#EXTINF:-1,AR: Nile Family
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11979
+#EXTINF:-1,AR: Nile Life
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11980
+#EXTINF:-1,AR: Nile News
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11981
+#EXTINF:-1,AR: Mekameleen TV
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11982
+#EXTINF:-1,AR: Al Hayat
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11983
+#EXTINF:-1,AR: Al Hayat 2
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11984
+#EXTINF:-1,AR: Alhayat Muslsalat
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11985
+#EXTINF:-1,AR: Althanya
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11986
+#EXTINF:-1,AR: Al Nahar Drama
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11987
+#EXTINF:-1,AR: SCARE TV
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11988
+#EXTINF:-1,AR: Sharo5an Hindi
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11989
+#EXTINF:-1,AR: Alostora TV
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11990
+#EXTINF:-1,AR: Mehwar TV
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11991
+#EXTINF:-1,AR: Oula Masr
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11992
+#EXTINF:-1,AR: AL masriya
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11993
+#EXTINF:-1,AR: MASR ALHAYAH
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11994
+#EXTINF:-1,AR: Al Kahera Wal Nas
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11995
+#EXTINF:-1,AR: Al Kahera Wal Nas 2
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11996
+#EXTINF:-1,AR: Sada El Balad
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11997
+#EXTINF:-1,AR: Sada El Balad Drama
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11998
+#EXTINF:-1,AR: An Najah Nbc
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11999
+#EXTINF:-1,AR: SBC
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12000
+#EXTINF:-1,AR: Qatar TV
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12001
+#EXTINF:-1,AR: KTV CH1 HD
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12002
+#EXTINF:-1,AR: KTV CH2 HD
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12003
+#EXTINF:-1,AR: KTV AL ARABI HD
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12004
+#EXTINF:-1,AR: KTV ETHRAA HD
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12005
+#EXTINF:-1,AR: KTV S.Plus HD
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12006
+#EXTINF:-1,AR: Sudan.TV
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12007
+#EXTINF:-1,AR: Sudania 24 HD
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12008
+#EXTINF:-1,AR: Sudan Drama
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12009
+#EXTINF:-1,AR: Sudan Om Dorman
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12010
+#EXTINF:-1,AR: Sudan Khartoum
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12011
+#EXTINF:-1,AR: Sudan Tayba
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12012
+#EXTINF:-1,AR: Sudan Blue Nile
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12013
+#EXTINF:-1,AR: Sudan Shorouk
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12014
+#EXTINF:-1,AR: Sudan Monwaat
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12015
+#EXTINF:-1,AR: Sudan Music
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12016
+#EXTINF:-1,AR: Sudan Sport
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12017
+#EXTINF:-1,AR: Sudan Dabanga
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12018
+#EXTINF:-1,AR: Sudan Knowledge
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12019
+#EXTINF:-1,AR: LBC
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12020
+#EXTINF:-1,AR: Future
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12021
+#EXTINF:-1,AR: NBN
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12022
+#EXTINF:-1,AR: LDC
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12023
+#EXTINF:-1,AR: Al Mayadeen Tv
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12024
+#EXTINF:-1,AR: AlRai
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12025
+#EXTINF:-1,AR: Lebanon
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12026
+#EXTINF:-1,AR: Heya TV
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12027
+#EXTINF:-1,AR: Al Aan TV
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12028
+#EXTINF:-1,AR: Ten
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12029
+#EXTINF:-1,AR: AL Manar
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12030
+#EXTINF:-1,AR: Citruss TV
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12031
+#EXTINF:-1,AR: Al Jadeed TV
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12032
+#EXTINF:-1,AR: OTV Lebanon
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12033
+#EXTINF:-1,AR: MTV Lebanon
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12034
+#EXTINF:-1,AR: NOUR TV
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12035
+#EXTINF:-1,AR: Nour Mariam
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12036
+#EXTINF:-1,AR: Nour elkuds
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12037
+#EXTINF:-1,AR: Nour El Keddisin
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12038
+#EXTINF:-1,AR: Nour Music 2
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12039
+#EXTINF:-1,AR: Syrian Satellite Tv
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12040
+#EXTINF:-1,AR: Syria News
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12041
+#EXTINF:-1,AR: Syria Drama
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12042
+#EXTINF:-1,AR: Syria Medical
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12043
+#EXTINF:-1,AR: Orient
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12044
+#EXTINF:-1,AR: LANA TV
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12045
+#EXTINF:-1,AR: Sama TV
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12046
+#EXTINF:-1,AR: SHAM TV
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12047
+#EXTINF:-1,AR: Altaghier Tv
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12048
+#EXTINF:-1,AR: NOUR EL SHAM
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12049
+#EXTINF:-1,AR: Jordan HD
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12050
+#EXTINF:-1,AR: Noor Jordan
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12051
+#EXTINF:-1,AR: A1 Jordan
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12052
+#EXTINF:-1,AR: Jordan Now
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12053
+#EXTINF:-1,AR: Jordan Amen
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12054
+#EXTINF:-1,AR: Jordan Sama
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12055
+#EXTINF:-1,AR: Jordan Manaseer
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12056
+#EXTINF:-1,AR: ROYA HD
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12057
+#EXTINF:-1,AR: Zweina Baladna
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12058
+#EXTINF:-1,AR: KAIFA TV
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12059
+#EXTINF:-1,AR: Jordan Sport
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12060
+#EXTINF:-1,AR: Palestine Today
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12061
+#EXTINF:-1,AR: Palestine live
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12062
+#EXTINF:-1,AR: Palestine News
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12063
+#EXTINF:-1,AR: MUSAWA
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12064
+#EXTINF:-1,AR: MAAN
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12065
+#EXTINF:-1,AR: HONA ALQUDS
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12066
+#EXTINF:-1,AR: Al Quds TV
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12067
+#EXTINF:-1,AR: Iraqia TV
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12068
+#EXTINF:-1,AR: Baghdad TV
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12069
+#EXTINF:-1,AR: AL Hurra Iraq
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12070
+#EXTINF:-1,AR: Hona Baghdad
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12071
+#EXTINF:-1,AR: Al Fallujah TV
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12072
+#EXTINF:-1,AR: Al Mawsleya
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12073
+#EXTINF:-1,AR: Al Sumaria TV
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12074
+#EXTINF:-1,AR: AL Anbar
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12075
+#EXTINF:-1,AR: Al Rafiden
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12076
+#EXTINF:-1,AR: Karbala TV
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12077
+#EXTINF:-1,AR: Al Ghadeer
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12078
+#EXTINF:-1,AR: Alitejah TV
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12079
+#EXTINF:-1,AR: Alforat TV
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12080
+#EXTINF:-1,AR: Al Rasheed
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12081
+#EXTINF:-1,AR: Al Hiwar TV
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12082
+#EXTINF:-1,AR: Ajman TV
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12083
+#EXTINF:-1,AR: Al Ghad Al Mushreq
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12084
+#EXTINF:-1,AR: Al Nahar One
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12085
+#EXTINF:-1,AR: ALhayah ALaan
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12086
+#EXTINF:-1,AR: Neelain Sport
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12087
+#EXTINF:-1,AR: Yemen Today
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12088
+#EXTINF:-1,AR: Shabab TV
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12089
+#EXTINF:-1,AR: Tanasoh TV
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12090
+#EXTINF:-1,AR: Al Naeem TV
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12091
+#EXTINF:-1,AR: Al Rayyan SD
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12092
+#EXTINF:-1,AR: Afak
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12093
+#EXTINF:-1,AR: AL Anwar
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12094
+#EXTINF:-1,AR: Al Maaref
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12095
+#EXTINF:-1,AR: Rotana Clip
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12096
+#EXTINF:-1,AR: Rotana Khalijiah
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12097
+#EXTINF:-1,AR: Rotana Music
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12098
+#EXTINF:-1,AR: Mazzika
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12099
+#EXTINF:-1,AR: Aghani Aghani TV
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12100
+#EXTINF:-1,AR: Afrah TV
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12101
+#EXTINF:-1,AR: Hawacom
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12102
+#EXTINF:-1,AR: Mazazik Tv
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12103
+#EXTINF:-1,AR: Music Alhanen
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12104
+#EXTINF:-1,AR: FUNoon
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12105
+#EXTINF:-1,AR: TATT7
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12106
+#EXTINF:-1,AR: WANASAH
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12107
+#EXTINF:-1,AR: Al Majd 2
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12108
+#EXTINF:-1,AR: Al Majd 1
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12109
+#EXTINF:-1,AR: Al Majd Hadith
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12110
+#EXTINF:-1,AR: AL NADA TV
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12111
+#EXTINF:-1,AR: AlAfasy
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12112
+#EXTINF:-1,AR: alnas
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12113
+#EXTINF:-1,AR: Iqraa
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12114
+#EXTINF:-1,AR: Makkah TV
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12115
+#EXTINF:-1,AR: Saudi 1
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12116
+#EXTINF:-1,AR: Saudi 2
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12117
+#EXTINF:-1,AR: Saudi Ch Quran
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12118
+#EXTINF:-1,AR: Saudi Ch Sunnah
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12119
+#EXTINF:-1,AR: Al Rahma
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12120
+#EXTINF:-1,AR: Al Resala
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12121
+#EXTINF:-1,AR: Azhari
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12122
+#EXTINF:-1,AR: Alhayat We Alnas
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12123
+#EXTINF:-1,AR: Al Erth Al Nabawi
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12124
+#EXTINF:-1,AR: Tayba TV
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12125
+#EXTINF:-1,AR: Al kawthar
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12126
+#EXTINF:-1,AR: Al Anis TV
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12127
+#EXTINF:-1,AR: Quran Tv
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12128
+#EXTINF:-1,AR: Ahel Al Quran
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12129
+#EXTINF:-1,AR: KSA SPORT 1
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12130
+#EXTINF:-1,AR: Alkass One HD
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12131
+#EXTINF:-1,AR: Alkass Two HD
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12132
+#EXTINF:-1,AR: AlKass Seven HD
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12133
+#EXTINF:-1,AR: Alkass Five HD
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12134
+#EXTINF:-1,AR: YAS Sports HD
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12135
+#EXTINF:-1,AR: ON Sport
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12136
+#EXTINF:-1,AR: AD Sport 1 HD
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12137
+#EXTINF:-1,AR: AD Sport 2 HD
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12138
+#EXTINF:-1,AR: AD Sport 3 HD
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12139
+#EXTINF:-1,AR: AD Sport4
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12140
+#EXTINF:-1,AR: AD Sport5
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12141
+#EXTINF:-1,AR: Dubai Sport 1
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12142
+#EXTINF:-1,AR: Dubai Sports 2
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12143
+#EXTINF:-1,AR: Dubai Sports 3
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12144
+#EXTINF:-1,AR: Dubai Racing 1
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12145
+#EXTINF:-1,AR: Dubai Racing 2
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12146
+#EXTINF:-1,AR: Dubai Racing 3
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12147
+#EXTINF:-1,AR: DMC Sports
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12148
+#EXTINF:-1,AR: KTV Sport HD
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12149
+#EXTINF:-1,AR: MBC 3
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12150
+#EXTINF:-1,AR: Cartoon Network Arabic
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12151
+#EXTINF:-1,AR: beIN Baraem
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12152
+#EXTINF:-1,AR: beIN Junior
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12153
+#EXTINF:-1,AR: beIN DreamWorks
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12154
+#EXTINF:-1,AR: Tom And Jerry
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12155
+#EXTINF:-1,AR: Toyor Al Janah
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12156
+#EXTINF:-1,AR: SpaceToon Arabic
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12157
+#EXTINF:-1,AR: Toyor Baby
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12158
+#EXTINF:-1,AR: Documentary Arabic
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12159
+#EXTINF:-1,AR: HodHod TV
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12160
+#EXTINF:-1,AR: Mickey Channel
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12161
+#EXTINF:-1,AR: Majid Kids TV
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12162
+#EXTINF:-1,AR: Mody Kids
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12163
+#EXTINF:-1,AR: Jeem TV
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12164
+#EXTINF:-1,AR: KOKKY TV
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12165
+#EXTINF:-1,AR: TAHA
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12166
+#EXTINF:-1,AR: KARAMEESH
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12167
+#EXTINF:-1,AR: Ajial
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12168
+#EXTINF:-1,AR: MyHD FX HD
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/14529
+#EXTINF:-1,AR: MyHD Life HD
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/14530
+#EXTINF:-1,AR: MyHD Crime HD
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/14531
+#EXTINF:-1,AR: MyHD Rewayat HD
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/14532
+#EXTINF:-1,AR: My Cinema HD
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/14533
+#EXTINF:-1,AR: MyHD Fire Movies HD
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/14534
+#EXTINF:-1,AR: MyHD Family Movies HD
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/14535
+#EXTINF:-1,AR: MyHD Discovery Sc HD
+http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/14536
