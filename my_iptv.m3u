@@ -382,19 +382,19 @@ http://makkahtv.srfms.com:1935/makkahtv/livestream/playlist.m3u8
 #EXTINF:-1,Marah FM
 http://vstream3.hadara.ps:8081/marahFM_web/web/playlist.m3u8
 #EXTINF:0,MBC"1"
-https://shls-mbc1ksa-prod.shahid.net/mbc1ksa-prod.m3u8
+http://aromaiptv.net:80/sultamalmelehi/tsvbsskg66fsg/442
 #EXTINF:0,MBC"2"
 http://iri.studio21pr.com:8080/extreamnewnahs89sjndkhsh/extreamnew9977hdjjsnnsnsjsjs903094jndbb/13624
 #EXTINF:0,MBC"3"
-https://shls-mbc3-prod.shahid.net/mbc3-prod.m3u8
+http://aromaiptv.net:80/sultamalmelehi/tsvbsskg66fsg/37838
 #EXTINF:0,MBC"4"
-https://shls-mbc4-prod.shahid.net/mbc4-prod.m3u8
+http://aromaiptv.net:80/sultamalmelehi/tsvbsskg66fsg/445
 #EXTINF:0,MBC"5"
 http://iri.studio21pr.com:8080/extreamnewnahs89sjndkhsh/extreamnew9977hdjjsnnsnsjsjs903094jndbb/13627
 #EXTINF:0,MBC Action HD
-https://shls-mbcaction-prod.shahid.net/mbcaction-prod.m3u8
+http://iri.studio21pr.com:8080/extreamnewnahs89sjndkhsh/extreamnew9977hdjjsnnsnsjsjs903094jndbb/13628
 #EXTINF:0,MBC Bollywood
-https://shls-mbcbollywood-prod.shahid.net/mbcbollywood-prod.m3u8
+http://iri.studio21pr.com:8080/extreamnewnahs89sjndkhsh/extreamnew9977hdjjsnnsnsjsjs903094jndbb/13629
 #EXTINF:0,MBC Drama
 https://shls-mbcdramaksa-prod.shahid.net/mbcdramaksa-prod.m3u8
 #EXTINF:0,MBC Drama+
@@ -408,7 +408,7 @@ https://shls-masr-prod.shahid.net/masr-prod.m3u8
 #EXTINF:0,MBC Masr2
 https://shls-masr2-prod.shahid.net/masr2-prod.m3u8
 #EXTINF:0,MBC Max HD
-https://shls-mbcmax-prod.shahid.net/mbcmax-prod.m3u8
+http://iri.studio21pr.com:8080/extreamnewnahs89sjndkhsh/extreamnew9977hdjjsnnsnsjsjs903094jndbb/13630
 #EXTINF:-1,Medi 1 TV Arabic
 https://streaming.medi1tv.com/live/Medi1tvArabia.sdp/playlist.m3u8
 #EXTINF:-1,Mekameleen TV
@@ -788,8 +788,6 @@ http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11889
 http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11890
 #EXTINF:-1,AR: Panorama Food
 http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11891
-#EXTINF:-1,AR: MBC 4
-http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11893
 #EXTINF:-1,AR: MBC Bollywood
 http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11894
 #EXTINF:-1,AR: MBC Drama
@@ -798,10 +796,6 @@ http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11895
 http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11896
 #EXTINF:-1,AR: MBC Masr2
 http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11897
-#EXTINF:-1,AR: MBC MAX
-http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11899
-#EXTINF:-1,AR: MBC Action
-http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11900
 #EXTINF:-1,AR: beIN Drama
 http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11901
 #EXTINF:-1,AR: beIN Movies Premiere HD
@@ -1300,8 +1294,6 @@ http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12147
 http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12148
 #EXTINF:-1,AR: KTV Sport HD
 http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12149
-#EXTINF:-1,AR: MBC 3
-http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12150
 #EXTINF:-1,AR: Cartoon Network Arabic
 http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/12151
 #EXTINF:-1,AR: beIN Baraem
