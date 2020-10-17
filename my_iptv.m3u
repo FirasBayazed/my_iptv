@@ -1,5 +1,4 @@
 #EXTM3U
-#EXTENC: UTF-8
 #EXTINF:-1,NAT GEO HD
 http://fariszah.myq-see.com:8008/live/demo/demo/1933.ts
 #EXTINF:-1,NATGEO PEOPLE
@@ -385,7 +384,7 @@ http://vstream3.hadara.ps:8081/marahFM_web/web/playlist.m3u8
 #EXTINF:0,MBC"1"
 https://shls-mbc1ksa-prod.shahid.net/mbc1ksa-prod.m3u8
 #EXTINF:0,MBC"2"
-https://shls-mbc2-prod.shahid.net/mbc2-prod.m3u8
+http://iri.studio21pr.com:8080/extreamnewnahs89sjndkhsh/extreamnew9977hdjjsnnsnsjsjs903094jndbb/13624
 #EXTINF:0,MBC"3"
 https://shls-mbc3-prod.shahid.net/mbc3-prod.m3u8
 #EXTINF:0,MBC"4"
@@ -801,8 +800,6 @@ http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11895
 http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11896
 #EXTINF:-1,AR: MBC Masr2
 http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11897
-#EXTINF:-1,AR: MBC 2
-http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11898
 #EXTINF:-1,AR: MBC MAX
 http://iptv.portugiptv.com:8010/kBf8aHjHzt/aQDeYPHAN3/11899
 #EXTINF:-1,AR: MBC Action
