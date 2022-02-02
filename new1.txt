@@ -1,0 +1,475 @@
+#EXTM3U
+#EXTINF:-1,OSN Travel ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/27
+#EXTINF:-1,NRT Arabic KRD
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/2023
+#EXTINF:-1,MyHD MBC 1 HD VIP ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/8801
+#EXTINF:-1,MyHD MBC 2 HD VIP ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/8800
+#EXTINF:-1,MyHD MBC 3 HD VIP ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/8799
+#EXTINF:-1,MyHD MBC 4 HD VIP ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/8798
+#EXTINF:-1,MyHD MBC Action HD VIP ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/8797
+#EXTINF:-1,MyHD MBC Drama HD VIP ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/8794
+#EXTINF:-1,MyHD MBC Max HD VIP ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/8795
+#EXTINF:-1,MyHD MBC+ Drama HD VIP ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/8796
+#EXTINF:-1,MyHD MBC+ Variety HD VIP ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/8793
+#EXTINF:-1,OSN ART Aflam 1 HD VIP ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/8825
+#EXTINF:-1,OSN ART Aflam 2 HD VIP ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/8824
+#EXTINF:-1,OSN ART Cinema HD VIP ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/8823
+#EXTINF:-1,OSN ART Hekayat 2 HD VIP ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/8821
+#EXTINF:-1,OSN ART Hekayat 1 HD VIP ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/8822
+#EXTINF:-1,OSN Animal Planet HD VIP ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/9257
+#EXTINF:-1,OSN Animaux VIP ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/9256
+#EXTINF:-1,OSN BBC First HD 1 VIP ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/10999
+#EXTINF:-1,OSN BBC First HD VIP ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/11000
+#EXTINF:-1,OSN Baby TV VIP ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/9255
+#EXTINF:-1,OSN Bloomberg VIP ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/9253
+#EXTINF:-1,OSN CNBC Europ VIP ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/9252
+#EXTINF:-1,OSN CNBC Europe VIP ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/10998
+#EXTINF:-1,OSN CNN VIP ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/11004
+#EXTINF:-1,OSN Cinema 1 HD VIP ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/8860
+#EXTINF:-1,OSN Cinema 2 HD VIP ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/8859
+#EXTINF:-1,OSN Comedy Central HD 1 VIP ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/10997
+#EXTINF:-1,OSN Comedy Central HD 2 VIP ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/10996
+#EXTINF:-1,OSN Comedy Central HD VIP ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/9251
+#EXTINF:-1,OSN Crime & Investigation VIP ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/10995
+#EXTINF:-1,OSN Discovery Channel HD VIP ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/9249
+#EXTINF:-1,OSN Discovery Channel VIP ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/10994
+#EXTINF:-1,OSN Discovery Family HD VIP ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/9248
+#EXTINF:-1,OSN Discovery IDX HD +1 VIP ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/10988
+#EXTINF:-1,OSN Discovery IDX HD +2 VIP ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/10987
+#EXTINF:-1,OSN Discovery IDX HD VIP ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/9247
+#EXTINF:-1,OSN Discovery SC VIP ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/10986
+#EXTINF:-1,OSN Discovery Science HD VIP ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/9246
+#EXTINF:-1,OSN Disney Channel HD VIP ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/9245
+#EXTINF:-1,OSN DocuBOX HD VIP ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/9242
+#EXTINF:-1,OSN E! HD VIP ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/9241
+#EXTINF:-1,OSN Fashion TV HD VIP ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/9240
+#EXTINF:-1,OSN Fast & Fun Box HD VIP ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/10981
+#EXTINF:-1,OSN Fight Network HD VIP ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/9237
+#EXTINF:-1,OSN Filmbox HD VIP ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/9235
+#EXTINF:-1,OSN Fine Living +1 VIP ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/10979
+#EXTINF:-1,OSN Fine Living VIP ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/9234
+#EXTINF:-1,OSN First HBO HD VIP ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/9233
+#EXTINF:-1,OSN Fox News VIP ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/10974
+#EXTINF:-1,OSN H2 HD VIP ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/10971
+#EXTINF:-1,OSN H2 HD VIP ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/9228
+#EXTINF:-1,OSN History Channel HD VIP ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/10969
+#EXTINF:-1,OSN ITV Choice HD VIP ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/9226
+#EXTINF:-1,OSN Kid Zone TV VIP ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/10966
+#EXTINF:-1,OSN MTV Live HD VIP ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/10955
+#EXTINF:-1,OSN Motorvision HD VIP ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/10964
+#EXTINF:-1,OSN Movies +2 VIP ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/10963
+#EXTINF:-1,OSN Movies Action HD VIP ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/8848
+#EXTINF:-1,OSN Movies Action VIP ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/9263
+#EXTINF:-1,OSN Movies Comedy HD VIP ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/9223
+#EXTINF:-1,OSN Movies Family HD VIP ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/9222
+#EXTINF:-1,OSN Movies Festival HD 2 VIP ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/10959
+#EXTINF:-1,OSN Movies Festival HD VIP ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/8845
+#EXTINF:-1,OSN Movies Festival VIP ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/9262
+#EXTINF:-1,OSN Movies First HD +2 VIP ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/10958
+#EXTINF:-1,OSN Movies First HD VIP ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/9221
+#EXTINF:-1,OSN Movies HD VIP ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/9219
+#EXTINF:-1,OSN Movies Kids HD VIP ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/8841
+#EXTINF:-1,OSN Movies Kids VIP ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/9261
+#EXTINF:-1,OSN Movies Thriller HD VIP ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/9216
+#EXTINF:-1,OSN NAT GEO People HD VIP ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/10951
+#EXTINF:-1,OSN Nat GEO Wild HD 1 VIP ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/10948
+#EXTINF:-1,OSN Nat GEO Wild HD +2 VIP ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/10947
+#EXTINF:-1,OSN Nat GEO Wild HD VIP ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/10949
+#EXTINF:-1,OSN Nat Geo HD 1 VIP ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/10953
+#EXTINF:-1,OSN Nat Geo HD VIP ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/8839
+#EXTINF:-1,OSN Nat Geo VIP ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/9260
+#EXTINF:-1,OSN News VIP ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/9211
+#EXTINF:-1,OSN Nickelodeon HD VIP ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/9210
+#EXTINF:-1,OSN Nickelodeon VIP ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/10946
+#EXTINF:-1,OSN Series Comedy HD VIP ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/9207
+#EXTINF:-1,OSN Series First HD VIP ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/9206
+#EXTINF:-1,OSN Series HD +1 VIP ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/10940
+#EXTINF:-1,OSN Series HD VIP ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/10941
+#EXTINF:-1,OSN Sky News Arabia HD VIP ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/9204
+#EXTINF:-1,OSN Sky News HD VIP ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/10939
+#EXTINF:-1,OSN Star Movie HD VIP ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/9196
+#EXTINF:-1,OSN Star Movies HD VIP ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/8832
+#EXTINF:-1,OSN Star World HD VIP ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/8831
+#EXTINF:-1,OSN Star World VIP ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/9259
+#EXTINF:-1,OSN Sundance HD 2 VIP ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/10938
+#EXTINF:-1,OSN Sundance HD VIP ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/9195
+#EXTINF:-1,OSN Syfy HD +1 VIP ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/10937
+#EXTINF:-1,OSN Syfy HD VIP ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/8830
+#EXTINF:-1,OSN TLC HD VIP ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/9193
+#EXTINF:-1,OSN Travel Channel VIP ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/9191
+#EXTINF:-1,OSN VH1 VIP ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/9190
+#EXTINF:-1,OSN WWE Network HD VIP ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/9189
+#EXTINF:-1,OSN Ya Hala HD VIP ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/9187
+#EXTINF:-1,OSN Ya Hala! Al Oula HD VIP ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/8827
+#EXTINF:-1,OSN Yahala Cinema HD VIP ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/9185
+#EXTINF:-1,Devrim Arabalari (2008) TR
+http://portal.geniptv.com:8080/movie/TOnyAydIN/zU5T7M68fr/9905.mp4
+#EXTINF:-1,Bergman Ett Ar Ett Liv (2018) [SE]
+http://portal.geniptv.com:8080/movie/TOnyAydIN/zU5T7M68fr/30691.mkv
+#EXTINF:-1,Sven-Ingvars Sa Manga Mil Sa Manga Ar (2016) [SE]
+http://portal.geniptv.com:8080/movie/TOnyAydIN/zU5T7M68fr/82376.mkv
+#EXTINF:-1,########## Arab Countries ##########
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/2519
+#EXTINF:-1,BBC Arabic ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/2370
+#EXTINF:-1,Quest Arabiya ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/4960
+#EXTINF:-1,AL Arabia AL Hadath ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/3533
+#EXTINF:-1,Al Fallujah HD AR
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/22548
+#EXTINF:-1,Al Fallujah FHD AR
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/22549
+#EXTINF:-1,Kuwait AL Arabi ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/3527
+#EXTINF:-1,KTV Arabe ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/4930
+#EXTINF:-1,========== ARB MBC ==========
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/24405
+#EXTINF:-1,MBC 1 ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/2426
+#EXTINF:-1,MBC 1 HD ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/2435
+#EXTINF:-1,MBC 1 HD VIP ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/6953
+#EXTINF:-1,MBC 2 ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/2425
+#EXTINF:-1,MBC 2 HD ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/2434
+#EXTINF:-1,MBC 2 HD VIP ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/6952
+#EXTINF:-1,MBC 3 ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/2424
+#EXTINF:-1,MBC 3 HD ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/2433
+#EXTINF:-1,MBC 3 HD VIP ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/6951
+#EXTINF:-1,MBC 4 ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/2423
+#EXTINF:-1,MBC 4 HD ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/2432
+#EXTINF:-1,MBC 4 HD VIP ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/6950
+#EXTINF:-1,MBC Action ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/2418
+#EXTINF:-1,MBC Action HD ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/2428
+#EXTINF:-1,MBC Action HD VIP ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/6949
+#EXTINF:-1,MBC Bollywood ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/2421
+#EXTINF:-1,MBC Boolywood HD VIP ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/6948
+#EXTINF:-1,MBC Drama ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/2422
+#EXTINF:-1,MBC Drama HD ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/2430
+#EXTINF:-1,MBC Drama HD VIP ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/6947
+#EXTINF:-1,MBC MAX HD VIP ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/6946
+#EXTINF:-1,MBC Masr 1 ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/3485
+#EXTINF:-1,MBC Masr 2 ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/2420
+#EXTINF:-1,MBC Max ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/2417
+#EXTINF:-1,MBC Max HD ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/2429
+#EXTINF:-1,MBC P Variety HD ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/2427
+#EXTINF:-1,MBC Plus Drama HD ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/2431
+#EXTINF:-1,MBC Egypt ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/2419
+#EXTINF:-1,MBC Iraq HD ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/40185
+#EXTINF:-1,Arabica ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/4989
+#EXTINF:-1,Al Jazeera Arabic HD ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/5029
+#EXTINF:-1,AL Arabia News ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/3534
+#EXTINF:-1,Al Arabiya ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/3449
+#EXTINF:-1,Sky News Arabia ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/3536
+#EXTINF:-1,CNBC Arabiyah ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/4964
+#EXTINF:-1,Euronews Arabic ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/4952
+#EXTINF:-1,TRT Al Arabiye ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/4935
+#EXTINF:-1,DW TV Arabia ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/3535
+#EXTINF:-1,========== ARB OSN Network ==========
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/25492
+#EXTINF:-1,OSN Al Safwa ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/410
+#EXTINF:-1,OSN Al Yawm ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/409
+#EXTINF:-1,OSN Animal Planet ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/24
+#EXTINF:-1,OSN BBC First ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/29
+#EXTINF:-1,OSN Baby ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/12
+#EXTINF:-1,OSN Box Office 1 HD ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/408
+#EXTINF:-1,OSN Box Office 2 HD ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/407
+#EXTINF:-1,OSN Box Office 3 ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/406
+#EXTINF:-1,OSN CNN ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/38
+#EXTINF:-1,OSN Comedy Central ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/40
+#EXTINF:-1,OSN Crime & Investigation ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/26
+#EXTINF:-1,OSN Demand Extra ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/9
+#EXTINF:-1,OSN Discovery HD ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/23
+#EXTINF:-1,OSN Discovery History ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/22
+#EXTINF:-1,OSN Discovery Science ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/21
+#EXTINF:-1,OSN Disney Channel ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/17
+#EXTINF:-1,OSN Disney Junior ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/15
+#EXTINF:-1,OSN Disney XD ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/16
+#EXTINF:-1,OSN E! ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/32
+#EXTINF:-1,OSN Fashion ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/403
+#EXTINF:-1,OSN FataFeat ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/402
+#EXTINF:-1,OSN Fight Network ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/7
+#EXTINF:-1,OSN Fine Living ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/33
+#EXTINF:-1,OSN First HBO ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/41
+#EXTINF:-1,OSN Fox Action Movie FHD ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/401
+#EXTINF:-1,OSN Fox Family Movies HD ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/400
+#EXTINF:-1,OSN Fox Movie HD ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/399
+#EXTINF:-1,OSN Fox News HD ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/398
+#EXTINF:-1,OSN H2 HD ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/397
+#EXTINF:-1,OSN History 1 ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/25
+#EXTINF:-1,OSN IDX FHD ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/30
+#EXTINF:-1,OSN ITV Choice ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/35
+#EXTINF:-1,OSN JimJam ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/11
+#EXTINF:-1,OSN MBC Variety HD ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/411
+#EXTINF:-1,OSN MBC+ Drama HD ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/412
+#EXTINF:-1,OSN Movie 1 HD ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/57
+#EXTINF:-1,OSN Movies 2 HD ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/56
+#EXTINF:-1,OSN Movies Action 1 ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/55
+#EXTINF:-1,OSN Movie Comedy ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/46
+#EXTINF:-1,OSN Movie Drama 1 ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/51
+#EXTINF:-1,OSN Movie Drama 2 ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/50
+#EXTINF:-1,OSN Movie Family ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/47
+#EXTINF:-1,OSN Movie Festival ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/48
+#EXTINF:-1,OSN Movies Kids ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/49
+#EXTINF:-1,OSN Movie Premier 2 ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/52
+#EXTINF:-1,OSN Movies Premiere 1 ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/53
+#EXTINF:-1,OSN MusalSat ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/381
+#EXTINF:-1,OSN Music Now ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/396
+#EXTINF:-1,OSN Nat Geo HD ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/20
+#EXTINF:-1,OSN Nat Geo People HD ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/18
+#EXTINF:-1,OSN Nat Geo Wild HD ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/19
+#EXTINF:-1,OSN News ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/395
+#EXTINF:-1,OSN Nick Junior ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/14
+#EXTINF:-1,OSN Nickelodeon ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/13
+#EXTINF:-1,OSN ON Demande 1 ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/394
+#EXTINF:-1,OSN ON Demande 2 ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/393
+#EXTINF:-1,OSN Orbit Cinema 1 ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/391
+#EXTINF:-1,OSN Orbit Cinema 2 ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/390
+#EXTINF:-1,OSN Outdoor ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/10
+#EXTINF:-1,OSN SeeVii Al Aoula HD ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/380
+#EXTINF:-1,OSN SeeVii Drama HD ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/378
+#EXTINF:-1,OSN SeeVii Shamiya HD ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/377
+#EXTINF:-1,OSN Series +2 HD ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/387
+#EXTINF:-1,OSN Series Comedy 1 ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/43
+#EXTINF:-1,OSN Series Comedy 2 ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/42
+#EXTINF:-1,OSN Series First 1 ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/45
+#EXTINF:-1,OSN Series First ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/388
+#EXTINF:-1,OSN Star Movie ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/36
+#EXTINF:-1,OSN Star World ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/37
+#EXTINF:-1,OSN Sundance ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/386
+#EXTINF:-1,OSN SyFy ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/39
+#EXTINF:-1,OSN TLC ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/34
+#EXTINF:-1,OSN Ten Cricket ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/1
+#EXTINF:-1,OSN VH1 ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/31
+#EXTINF:-1,OSN WWE ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/7794
+#EXTINF:-1,OSN WWE Network ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/8
+#EXTINF:-1,OSN Ya Hala 1 HD ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/383
+#EXTINF:-1,OSN Ya Hala ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/385
+#EXTINF:-1,OSN Ya Hala Cinema HD ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/384
+#EXTINF:-1,Gulli Arabic ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/82836
+#EXTINF:-1,MBC 5 ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/83569
+#EXTINF:-1,MBC 5 FHD ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/83570
+#EXTINF:-1,CGTN Arabic ARB
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/89982
+#EXTINF:-1,Al Arabiya FHD [Multi-Lang] GR
+http://portal.geniptv.com:8080/TOnyAydIN/zU5T7M68fr/91188
